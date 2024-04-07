@@ -1,4 +1,4 @@
-<p align="center"><a href="https://yaotingyao.github.io/"><img width="80%" alt="Hello, I'm Yao-Ting!" src="./image/header.png" /></a></p>
+<p align="center"><a href="https://yaotingyao.github.io/"><img width="50%" alt="Hello, I'm Yao-Ting!" src="./image/header.png" /></a></p>
 
 - 🌎 Geospatial Software Developer at [ClarkCGA](https://github.com/ClarkCGA)
 
@@ -13,7 +13,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClarkCGA&repo=UDef-ARP&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+</a><a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YaoTingYao&repo=yaotingyao.github.io&theme=buefy" />
 </a>
