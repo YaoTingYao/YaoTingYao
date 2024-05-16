@@ -6,7 +6,6 @@
 
 - 💗 I love Web-Mapping and App design
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaoTingYao&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 #### Top Repositories
 
